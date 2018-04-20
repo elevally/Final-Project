@@ -30,8 +30,8 @@ $$v _{y,i+1} =  v_{y,i} - g\Delta t - \frac{B_{2}v v_{y,i}}{m}\Delta t$$
 4.  I plan on using the Euler method and the bisection method in order to model this problem.
 5.  The boundaries of this scenario will be that the minimum initial velocity of each projectile will be 3,000 m/s and the maximum of each will be 3,500 m/s.  The firing angles will be a minimum of 20 degrees and a maximum of 75 degrees.
 6. A missile will be coming at us with a random velocity at a random angle, and the program will calculate and output the correct angle and speed that out intercepting missile will need to fire at in order to intercept the incoming missile at a maximum possible height.  The output of the program should be an angle and a velocity, and I hope to write another function to show a graph of the two projectiles.  To verify that my results are correct or reasonable, I can do the calculations by hand and then compare them to the output of my program.
-7.  Step 1: complete code for a random incoming projectile  Completed by end of class Friday
-    Step 2: complete code for a projectile fired in the opposite direction  Completed by end of class Monday
-    Step 3: complete code to determine where they will intercept  Completed by end of class Thursday
-    Step 4: complete code to determine maximum height of intersection, and find the angle and velocity to reach it  Completed by end of class next Friday
-    Step 5: Make pretty graphs and write all required intros, descriptions  Completed by end of semester.
+7.  Step 1: complete introductions and basic code tests by 4/20
+    Step 2: complete code for a projectile fired in the opposite direction  Completed by end of class 4/23
+    Step 3: complete code to determine where they will intercept  Completed by end of class 4/26
+    Step 4: complete code to determine maximum height of intersection, and find the angle and velocity to reach it  Completed by end of class 4/27
+    Step 5: Make pretty graphs and write all required intros and descriptions  Completed by end of the semester.
